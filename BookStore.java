@@ -1,7 +1,7 @@
 package com.book;
 import java.util.*;
 
-public class BookStrore {
+public class BookStore {
 	List<Book>BookList=new ArrayList<Book>();
 	public void addBook(Book b) {
 		BookList.add(b);
